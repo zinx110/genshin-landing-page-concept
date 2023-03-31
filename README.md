@@ -1,4 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# genshin-landing-page-concept
+This is a concept landing page for genshin impact. The project uses react js, next js, tailwindCSS, typescript.
+This is a practice project for my portfolio.
+
+### I do not own the images I have used. Credits to the artists.
+
+## Web version:
+![Screenshot 2023-03-26 at 22-45-10 Create Next App (2)](https://user-images.githubusercontent.com/91798875/229089398-a454efb4-e8f0-412a-b92e-7f7b649a8494.png)
+
+https://user-images.githubusercontent.com/91798875/229089243-04d74089-2aec-42a2-911b-330fb30d8bc0.mp4
+
+![Screenshot 2023-03-26 at 22-45-15 Create Next App](https://user-images.githubusercontent.com/91798875/229089448-2b465b65-5700-4c45-9215-61aa153f86b5.png)
+
+
+## In mobile screen:
+![Screenshot_2023-03-26-23-14-58-307_com android chrome](https://user-images.githubusercontent.com/91798875/229089512-f65140f7-7854-4e7d-b80d-0e29f41fd5bd.jpg)
+
+https://user-images.githubusercontent.com/91798875/229089272-36f0a2fb-1bfd-4af6-ad72-1b2abbc5bff5.mp4
+
+
 
 ## Getting Started
 
@@ -14,26 +34,3 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# genshin-landing-page-concept
