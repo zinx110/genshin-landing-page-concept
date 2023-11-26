@@ -7,6 +7,7 @@ import HeroesMain from "@/componenets/Heroes/HeroesMain";
 import News from "@/componenets/News/News";
 import Streamers from "@/componenets/Streamers/Streamers";
 import Footer from "@/componenets/Footer/Footer";
+import Head from "next/head";
 
 const inter = Inter({ subsets: ["latin"] });
 
