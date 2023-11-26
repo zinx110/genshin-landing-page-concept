@@ -12,6 +12,12 @@ const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
+<>
+    <Head>
+        <title>Genshin Landing Page Concept</title>
+        <meta name="description" content="A concept landing page for genshin impact. The project uses react js, next js, tailwindCSS, typescript. This is a practice project for my portfolio." />
+
+    </Head>
     <main className="w-full flex flex-col relative">
       <HomePage />
       <HeroesMain />
@@ -19,5 +25,6 @@ export default function Home() {
       <Streamers />
       <Footer />
     </main>
+</>
   );
 }
